@@ -9,7 +9,7 @@
     "summary": "I am studying for a  Robotics and Mechatronics in the Information Technology and Management Systems at the University of STANKIN.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "103274",
       "city": "Moscow",
       "countryCode": "Russia",
       "region": "Moscow"
@@ -22,13 +22,13 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "kbark",
         "url": "http://linkedin.com/in/changeme"
       },
       {
         "network": "vk",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "kliment",
+        "url": "https://vk.com/idklimman"
       }
     ]
   },
@@ -43,6 +43,7 @@
     {
       "name": "soft robototics",
       "keywords": [
+        "ROS"
       ]
     },
     {
@@ -56,7 +57,6 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
         "Nodejs",
         "Java",
         "Javascript",
@@ -104,15 +104,14 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
+      "organization": "PROFKOM STUDENTS MGTU STANKIN",
+      "website": "http://profstankin.ru/",
       "position": "Software Developer",
       "startDate": "2016-01-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Lead developer for main web-site",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Design and development"
       ]
     },
     {
@@ -123,17 +122,16 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
+        "Chair, ACM Manoa, 2016-Present"
         "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
+      "title": "fisshe Olympiad",
+      "date": "2015",
+      "awarder": "Kazan
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
