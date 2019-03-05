@@ -20,13 +20,13 @@ summary: Javascript img-processing without libs on Electron!
 Img-Pocessing App can use basic operations!
 
 The application have:
-- Open Image
-- Choose
-- Laplace + Prewit + Threshold (100px)
-- Sum, Difference
-- Greyscale
-- Move
-- Brightness
+  - Open Image
+  - Choose
+  - Laplace + Prewit + Threshold (100px)
+  - Sum, Difference
+  - Greyscale
+  - Move
+  - Brightness
 
 <hr>
 
