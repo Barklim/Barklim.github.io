@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/pr_chem.png
-title: Chem
-permalink: projects/Chem
+title: ChemNews
+permalink: projects/ChemNews
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-12
 labels:
