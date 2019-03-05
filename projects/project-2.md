@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/pr_gen.png
-title: genomus
-permalink: projects/genomus
+title: Genomus
+permalink: projects/Genomus
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
