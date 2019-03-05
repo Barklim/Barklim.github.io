@@ -1,59 +1,43 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/pr_ateMarket.png
+title: AtwMarket
+permalink: projects/AtwMarket
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2018-04-12
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - ES6
+  - React
+  - Redux
+  - ESLint
+summary: Market place App with message block.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui medium left floated rounded" src="../images/pr_ateMarket.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Description:
+Here is the page layout of the Factory of Men.
 
-To give you a flavor of the game, here is an excerpt from one run:
+The essence is this: the user has coins for which he can buy parts for the production of a little man (pen, leg, cucumber). Ingredients are accumulated in the bag, from which the parts are taken for production.
 
-<hr>
+Now about each block in more detail.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+Piggy bank.
+In the piggy bank are coins. The number of coins is displayed in coins and text. Both are centered. When you click on the link “Add one coin”, another yellow coin is added to the block with coins, while the new number of coins is centered. In the text block, the number also changes, taking into account the cases (coin, coins, coins). Maximum can be 100 coins.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+Market Ingredients.
+The middle button is centered, the buttons on the left and right are separated by an equal distance from it. The price under the button is centered relative to the button. When buying an ingredient, the specified number of coins is subtracted from the piggy bank, and the amount of this ingredient in the bag increases. If there is not enough money in the bank to buy some ingredient, the purchase button is inactive.
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+Ingredients in bag.
+The block with the number of legs is centered, the blocks with the number of handles and cucumbers on the left and right are also separated from it at an equal distance. Buttons are arranged similarly a little lower. When selling an ingredient, one ingredient disappears from the bag, and the specified number of coins is added to the piggy bank. If some ingredient is not in the bag, its quantity is written in a different color, and the sale button is inactive.
 
-pickup candle
-- you are now carrying the candle -
+Production man.
+Here you can choose the floor and color, add the ingredients you need for production to the boiler and create a little man. When you change the floor, the silhouette of the man changes to the corresponding floor. Add an ingredient to the boiler by clicking on the silhouette of the corresponding ingredient, while from the silhouette it turns into the corresponding picture. If any ingredient is not in the bag, its silhouette is displayed in a different color and you cannot click on it. You can also put the ingredient back into the bag by clicking on it. When all the ingredients are added, the “Create little man” button becomes active (unless of course there is the amount needed to create the wallet).
 
-pickup match
-- you are now carrying the match -
+Above the boiler there is a pop-up window that always tells you why you cannot create a human being at the moment. When nothing is added to the cauldron, the window will indicate “There are not enough hands, legs and cucumber”. If at the same time in the wallet will be an amount less than the price for the creation of a little man, the window will inform you that "There are not enough hands, legs, cucumber and money." The preposition "and" is mandatory for all cases where it can be used. Each ingredient in the message can be both plural and singular. If all the ingredients are added, but the necessary amount is not in the wallet, the window will say that “Not enough money”, and so on.
 
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
+We would not like the finished results of the task to appear on the network, so we urge you not to share the result in publicly available sources.
 
 <hr>
 
