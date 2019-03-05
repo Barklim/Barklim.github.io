@@ -14,7 +14,7 @@ labels:
 summary: Market place App with message block.
 ---
 
-<img class="ui medium left floated rounded" src="../images/pr_ateMarket.png">
+<img class="ui medium left floated rounded image" src="../images/pr_ateMarket.png">
 
 Description:
 Here is the page layout of the Factory of Men.
