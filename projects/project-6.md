@@ -8,10 +8,9 @@ permalink: projects/ImgProcessing
 date: 2018-12-12
 labels:
   - Electron
-  - Without lib
   - ImgProcessing
-  - Javascript
   - Angular
+
 summary: Javascript img-processing without libs on Electron!
 ---
 
