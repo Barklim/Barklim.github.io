@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pr_chem.png
+image: images/pr_chem.PNG
 title: Chem
 permalink: projects/Chem
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,7 @@ labels:
 summary: This web app helps find your chemistry news. It's built with React, Redux, Express, and Mongoose..
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/pr_chem.png">
+<img class="ui image" src="{{ site.baseurl }}/images/pr_chem.PNG">
 
 Chem-news is a web application that I helped create in Spring 2018. The project helped me learn how to design and implement a responsive web site.
 
