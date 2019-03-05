@@ -41,5 +41,5 @@ We would not like the finished results of the task to appear on the network, so 
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/Barklim/atw-market"><i class="large github icon "></i>Market-App/ics-313-text-game</a>
 
