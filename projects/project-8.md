@@ -9,7 +9,7 @@ date: 2018-12-12
 labels:
   - Html
   - Css
-  - Landing pr_wines
+  - Landing 
 summary: It is a startup landing page. This web page introduces a wine club company which has their own recommendation engine. Most of the parts were built with HTML and CSS.
 ---
 
