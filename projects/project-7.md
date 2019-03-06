@@ -24,5 +24,6 @@ Watson Speech Recognition API - It's IBM Watson's website
 Indico Personality Analyzing API - It's Indico's website
 
 <hr>
-
 Source: <a href="https://github.com/Barklim/rori/blob/master/README.md"><i class="large github icon "></i>VoiceRecogintion</a>
+
+App: <a href="https://barklim.github.io/rori/"><i class="large globe icon"></i>VoiceRecogintion</a>
