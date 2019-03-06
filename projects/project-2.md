@@ -31,11 +31,8 @@ The application uses:
 - routing
 - tokinization, salt
 
- 
+<hr>
 Source: <a href="https://github.com/Barklim/Genomus"><i class="large github icon"></i>Genomus</a>
 
 App: <a href="https://afternoon-reef-93619.herokuapp.com/user-ankets"><i class="large globe icon"></i>Genomus</a>
 
-Source: <a href="https://github.com/Barklim/Genomus"><i class="large github icon"></i>Genomus</a>
-<hr></hr>
-App: <a href="https://afternoon-reef-93619.herokuapp.com/user-ankets"><i class="large globe icon"></i>Genomus</a>
