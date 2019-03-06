@@ -40,6 +40,7 @@ Above the boiler there is a pop-up window that always tells you why you cannot c
 We would not like the finished results of the task to appear on the network, so we urge you not to share the result in publicly available sources.
 
 <hr>
+Source: <a href="https://github.com/Barklim/atw-market"><i class="large github icon "></i>Market-App</a>
 
-Source: <a href="https://github.com/Barklim/atw-market"><i class="large github icon "></i>Market-App/ics-313-text-game</a>
+App: <a href="https://barklim.github.io/atw-market/"><i class="large globe icon"></i>Market-App</a>
 
