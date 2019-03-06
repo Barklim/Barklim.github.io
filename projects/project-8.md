@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/pr_wines.png
-title: ImgProcessing
-permalink: projects/ImgProcessing
+title: Wines
+permalink: projects/Wines
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-12
 labels:
