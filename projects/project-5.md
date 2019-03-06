@@ -15,6 +15,11 @@ summary: Simple color palete app.
 
 <img class="ui medium left floated rounded image" src="../images/pr_colorizer.png">
 
-<hr>
+Image palete app.
 
-Source: <a href="https://github.com/Barklim/Racoon_React-challenge-2"><i class="large github icon "></i>ChemNews_H2</a>
+<hr>
+Source: <a href="https://github.com/Barklim/Racoon_React-challenge-2"><i class="large github icon "></i>Colorizer</a>
+
+App: <a href="https://github.com/Barklim/Racoon_React-challenge-2"><i class="large globe icon"></i>Colorizer</a>
+
+
