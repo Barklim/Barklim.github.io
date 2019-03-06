@@ -20,6 +20,6 @@ Image palete app.
 <hr>
 Source: <a href="https://github.com/Barklim/Racoon_React-challenge-2"><i class="large github icon "></i>Colorizer</a>
 
-App: <a href="https://github.com/Barklim/Racoon_React-challenge-2"><i class="large globe icon"></i>Colorizer</a>
+App: <a href="https://barklim.github.io/Racoon_React-challenge-2/#/"><i class="large globe icon"></i>Colorizer</a>
 
 
