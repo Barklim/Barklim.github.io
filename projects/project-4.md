@@ -23,5 +23,7 @@ Vacay is implemented using a JavaScript application platform. Within two weeks, 
 In this project I gained experience with full-stack web application design and associated technologies, including MongoDB for database storage, the Twitter Bootstrap CSS Framework for the user interface, and Javascript for both client and server-side programming.
 
 <hr>
-
 Source: <a href="https://github.com/Barklim/chemNews"><i class="large github icon "></i>ChemNews_H2</a>
+
+App: <a href="https://barklim.github.io/chemNews/"><i class="large globe icon"></i>ChemNews_H2</a>
+
